@@ -1,0 +1,29 @@
+.jumbotron{
+
+paading:70px 30px 70px 30px;
+	margin: 0px auto;
+background:#9575CD;
+	color:white;	
+
+}
+.footer{
+	background-color:#D1C4E9;
+	margin:0px auto;
+	padding: 20px 0px 20px 0px;
+}
+.row-content {
+	margin:0px auto;
+	padding:50px 0px 50px 0px;
+	border-bottom:1px ridge;
+	
+}
+
+.navbar-dark{
+	background-color:#512DA8;
+} 
+.tab-content{
+	 border-left:1x solid #ddd;
+	 border-right:1px solid #ddd;
+	 border-bottom: 1px solid #ddd;
+	 padding:10px;
+}
