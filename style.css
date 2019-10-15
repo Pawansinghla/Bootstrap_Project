@@ -22,8 +22,8 @@ background:#9575CD;
 	background-color:#512DA8;
 } 
 .tab-content{
-	 border-left:1x solid #ddd;
-	 border-right:1px solid #ddd;
-	 border-bottom: 1px solid #ddd;
+	 border-left:2x solid #ddd;
+	 border-right:2px solid #ddd;
+	 border-bottom: 2px solid #ddd;
 	 padding:10px;
 }
